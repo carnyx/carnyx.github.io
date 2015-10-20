@@ -1,6 +1,6 @@
 name: Carnyx & Co.
 markdown: redcarpet
-highlighter: true
+highlighter: pygments
 collections:
   projects:
     output: true
