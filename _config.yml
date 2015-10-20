@@ -1,0 +1,10 @@
+name: Carnyx & Co.
+markdown: redcarpet
+highlighter: true
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+  cds:
+    output: true
+    permalink: /cds/:path/

@@ -166,10 +166,10 @@ hr.small {
     -------------------------------------------------- */
 
     /* Carousel base class */
-    .carousel, 
+    .carousel,
     .carousel-inner {
       height:100%;
-      
+
       background-color: black;
     }
 
@@ -200,12 +200,12 @@ hr.small {
       min-width: 100%;
       height: 100%;
     }
-    
+
     .carousel-caption {
       width: 50%;
       margin: 0 auto;
     }
-    
+
     .carousel-caption h1,
     .carousel-caption .lead {
       margin: 0;
@@ -248,8 +248,32 @@ hr.small {
     -o-background-size: cover;
 }
 
-#Pandora {
-    background: #000 url(/projects/pandoras-box/pandoras_box.jpg) no-repeat center center scroll;
+#CarnyxBrass {
+    background: #000 url(/img/pandoras_box.jpg) no-repeat center center scroll;
+}
+
+#ClassicalImprovisation {
+    background: #000 url(/img/pandoras_box.jpg) no-repeat center center scroll;
+}
+
+#DasAundDasO {
+    background: #000 url(/img/pandoras_box.jpg) no-repeat center center scroll;
+}
+
+#HeadSpace{
+    background: #000 url(/img/pandoras_box.jpg) no-repeat center center scroll;
+}
+
+#MouthpieceOfTheGods{
+    background: #000 url(/img/pandoras_box.jpg) no-repeat center center scroll;
+}
+
+#PandorasBox{
+    background: #000 url(/img/pandoras_box.jpg) no-repeat center center scroll;
+}
+
+#RedShift {
+    background: #000 url(/img/pandoras_box.jpg) no-repeat center center scroll;
 }
 
 .jk {
