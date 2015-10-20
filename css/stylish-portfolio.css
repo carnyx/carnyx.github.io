@@ -249,32 +249,45 @@ hr.small {
 }
 
 #CarnyxBrass {
-    background: #000 url(/img/pandoras_box.jpg) no-repeat center center scroll;
+    background: #000 url(/img/carnyx-brass.jpg) no-repeat center center scroll;
 }
 
 #ClassicalImprovisation {
-    background: #000 url(/img/pandoras_box.jpg) no-repeat center center scroll;
+    background: #000 url(/img/classical-improvisation.jpg) no-repeat center center scroll;
 }
 
 #DasAundDasO {
-    background: #000 url(/img/pandoras_box.jpg) no-repeat center center scroll;
+    background: #000 url(/img/das-a-und-das-o.jpg) no-repeat center center scroll;
 }
 
 #HeadSpace{
-    background: #000 url(/img/pandoras_box.jpg) no-repeat center center scroll;
+    background: #000 url(/img/head-space.jpg) no-repeat center center scroll;
 }
 
 #MouthpieceOfTheGods{
-    background: #000 url(/img/pandoras_box.jpg) no-repeat center center scroll;
+    background: #000 url(/img/mouthpiece-of-the-gods.jpg) no-repeat center center scroll;
 }
 
 #PandorasBox{
-    background: #000 url(/img/pandoras_box.jpg) no-repeat center center scroll;
+    background: #000 url(/img/pandoras-box.jpg) no-repeat center center scroll;
 }
 
 #RedShift {
-    background: #000 url(/img/pandoras_box.jpg) no-repeat center center scroll;
+    background: #000 url(/img/red-shift.jpg) no-repeat center center scroll;
 }
+
+#TamLin {
+    background: #000 url(/img/tam-lin.jpg) no-repeat center center scroll;
+}
+
+#TrioDart {
+    background: #000 url(/img/trio-d-art.jpg) no-repeat center center scroll;
+}
+
+#WildBoarPress {
+    background: #000 url(/img/wild-boar-press.jpg) no-repeat center center scroll;
+}
+
 
 .jk {
     width: 100%;

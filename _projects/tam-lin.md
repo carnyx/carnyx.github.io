@@ -3,7 +3,9 @@ name: Tam Lin
 url: projects/tam-lin
 thumbnail: img/tam-lin.jpg
 layout: project
+head: TamLin
 ---
+
 Tam Lin
 
 Dick Lee: clarinets, sax, recorders.John Kenny: trombones, recorders, fujara

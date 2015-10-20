@@ -3,6 +3,7 @@ name: Trio D'Art
 url: projects/trio-d-art
 thumbnail: img/trio-d-art.jpg
 layout: project
+head: TrioDart
 ---
 
 
