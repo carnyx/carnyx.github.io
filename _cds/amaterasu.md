@@ -1,6 +1,7 @@
 ---
 title: Amaterasu
-cover: img/amaterasu_cover.jpg 
+cover: img/amaterasu-cover.jpg 
 layout: cds
 head: Amaterasu
 ---
+Amaterasu

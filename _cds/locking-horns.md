@@ -1,6 +1,6 @@
 ---
 title: Locking Horns
-cover: img/locking_horns_cover.jpg
+cover: img/locking-horns-cover.jpg
 layout: cds
 head: LockingHorns
 ---

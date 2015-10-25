@@ -1,6 +1,6 @@
 ---
 title: Nomad
-cover: img/nomad_cover.jpg
+cover: img/nomad-cover.jpg
 layout: cds
 head: Nomad
 ---

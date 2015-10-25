@@ -248,6 +248,8 @@ hr.small {
     -o-background-size: cover;
 }
 
+/* Projects */
+
 #CarnyxBrass {
     background: #000 url(/img/carnyx-brass.jpg) no-repeat center center scroll;
 }
@@ -288,6 +290,47 @@ hr.small {
     background: #000 url(/img/wild-boar-press.jpg) no-repeat center center scroll;
 }
 
+/* Recordings */
+
+
+#AFieldOfScarecrows {
+    background: #fff url(/img/a-field-of-scarecrows-cover.jpg) no-repeat center center scroll;
+}
+
+
+#Amaterasu {
+    background: #fff url(/img/amaterasu-cover.jpg) no-repeat center center scroll;
+}
+
+
+#EmbracingTheUnknown {
+    background: #fff url(/img/embracing-the-unknown-cover.jpg) no-repeat center center scroll;
+}
+
+
+#ForestRiverOcean {
+    background: #fff url(/img/forest-river-ocean-cover.jpg) no-repeat center center scroll;
+}
+
+
+#LockingHorns {
+    background: #fff url(/img/locking-horns-cover.jpg) no-repeat center center scroll;
+}
+
+
+#Nomad {
+    background: #fff url(/img/nomad-cover.jpg) no-repeat center center scroll;
+}
+
+
+#TheMarshallPlan {
+    background: #fff url(/img/the-marshall-plan-cover.jpg) no-repeat center center scroll;
+}
+
+
+#TheVoiceOfTheCarnyx {
+    background: #fff url(/img/the-voice-of-the-carnyx-cover.jpg) no-repeat center center scroll;
+}
 
 .jk {
     width: 100%;

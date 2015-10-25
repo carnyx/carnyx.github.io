@@ -1,6 +1,6 @@
 ---
 title: Forest~River~Ocean
-cover: img/forest_river_ocean_cover.jpg 
+cover: img/forest-river-ocean-cover.jpg 
 layout: cds
 head: ForestRiverOcean
 ---
