@@ -1,6 +1,10 @@
 name: Carnyx & Co.
 markdown: redcarpet
+redcarpet:
+  extensions:
+  - tables
 highlighter: pygments
+permalink: pretty
 collections:
   projects:
     output: true

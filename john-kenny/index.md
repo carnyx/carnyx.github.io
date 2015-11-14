@@ -1,0 +1,14 @@
+---
+title: John Kenny
+layout: profile
+head: JohnKenny
+---
+
+Trombonist and composer John Kenny is internationally acclaimed for his interpretation of contemporary music, having performed and broadcast in over 50 nations to date. He also works extensively with improvisation and early music and is particularly active in collaboration with dance and theatre. In 1983 he began his long collaboration with playwright Paul Stebbings and the TNT Theatre Company performing, composing and directing music for productions which continue to tour worldwide including Cabaret Faust, Tempest Now, The Wizard of Jazz, Moby Dick, Moon Palace, The Taming of The Shrew, Romeo and Juliet, The Mystery of Edgar Allan Poe, The Ghost of Illiam Dhone, The Wave, The life and death of Martin Luther King and The Merchant of Venice. He has also received commissions from London Contemporary Dance Theatre, Huddersfield Contemporary Music Festival, the International Trombone Association, Scottish Chamber Orchestra, Edinburgh Contemporary Arts Trust, Chamber Group of Scotland, Dance Umbrella, St Magnus Festival, BBC Proms in The Park, American Drama Group Europe, The New Haven International Festival of Arts and Ideas (USA)  the Festival d’ Angers, (France), Vokal Nord (Norway), CCMIX Institut (France), the Swedish Arts Council, Spanish Brass and the city of Wroclaw (Poland). 
+
+
+John is a professor at both the Guildhall School of Music and Drama in London and The Royal Conservatoire of Scotland. He has lectured and performed at many of the world’s leading institutions, including Juilliard, Manhattan, Peabody and Eastman colleges in the USA,  and the conservatoires of Paris, Angers, Angouleme, Bordeaux, Perpignan, Den Haag, Wroclaw, Gdansk, Moscow, Helsinki, Tromso, Munich, Berlin, Cologne, Stuttgart, Hannover, Sofia, Athens, Madrid, Seville, Porto, Tokyo and Beijing.
+
+Since the early 1990’s he has also become increasingly involved with musical archaeology. In 1993 he became the first person for 2000 years to play the great Celtic war horn known as the carnyx. He now lectures and performs on the carnyx internationally in the concert hall and on radio, television and film. In March 2003 he performed his composition “The Voice of The Carnyx” to an audience of 65,000 in the Stade De France, Paris. In 2009 he undertook a month long lecture recital tour of the USA which included the world premier of his composition “Wild Stone” for alto flute and carnyx, and released his seventh solo album, “Embracing the Unknown”  for trombone with harp & string quartet. 
+
+John Kenny is a founder member of the European Music Archaeology Project (EMAP) with whom he has worked to bring to fruition the reconstruction of many lip reed instruments of antiquity, including the magnificent Tintignac Carnyx, recently discovered in the Correze region of France, and the Etruscan litus and cornu.

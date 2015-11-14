@@ -290,6 +290,15 @@ hr.small {
     background: #000 url(/img/wild-boar-press.jpg) no-repeat center center scroll;
 }
 
+
+#CarnyxYouthBrass {
+    background: #000 url(/img/carnyx-youth-brass.jpg) no-repeat center center scroll;
+}
+
+
+#TintignacCarnyx {
+    background: #000 url(/img/tintignac-carnyx.jpg) no-repeat center center scroll;
+}
 /* Recordings */
 
 
@@ -331,6 +340,7 @@ hr.small {
 #TheVoiceOfTheCarnyx {
     background: #fff url(/img/the-voice-of-the-carnyx-cover.jpg) no-repeat center center scroll;
 }
+
 
 .jk {
     width: 100%;
