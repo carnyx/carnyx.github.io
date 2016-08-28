@@ -1,9 +1,10 @@
 name: Carnyx & Co.
-markdown: redcarpet
-redcarpet:
-  extensions:
-  - tables
-highlighter: pygments
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+highlighter: rouge
 permalink: pretty
 collections:
   projects:
