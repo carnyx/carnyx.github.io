@@ -342,6 +342,10 @@ hr.small {
 }
 
 
+#TheSecretHouse {
+    background: #fff url(/img/the-secret-house-cover.jpg) no-repeat center center scroll;
+}
+
 .jk {
     width: 100%;
     height: 500px;
